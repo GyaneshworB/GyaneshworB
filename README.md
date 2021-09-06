@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyaneshwor Bagale</h1>
 <h3 align="center">A passionate computer engineer who specialized in web design and development.</h3>
+<img style="display:inline;" src="https://wallpaperaccess.com/full/483697.jpg" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyaneshworb&label=Profile%20views&color=0e75b6&style=flat" alt="gyaneshworb" /> </p>
 
